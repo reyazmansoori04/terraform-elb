@@ -15,6 +15,6 @@ variable "aws_subnet2" {
 
 variable "aws_key" {
     description = "aws key"
-    default = "DevOpsKey"
+    default = "new-devops-key"
 }
 
